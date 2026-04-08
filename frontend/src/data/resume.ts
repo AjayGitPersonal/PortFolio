@@ -40,7 +40,7 @@ export const experience = [
     location: "Coimbatore",
     period: "Feb 2024 – Present",
     highlights: [
-      "Trained 5,000+ students across Oracle Cloud, DevOps, and Web Technologies programs",
+      "Trained 2,500+ students across Oracle Cloud, DevOps, and Web Technologies programs",
       "Led and mentored interns, ensuring on-time and high-quality task delivery",
       "Delivered hands-on, project-driven training with real-world case studies and live OCI environments",
       "Actively contributed to the company's LMS portal development and guided student capstone projects",
@@ -84,7 +84,7 @@ export const projects = [
     description:
       "Contributing to the architecture and development of a Learning Management System serving thousands of students. Implementing course management, real-time student progress tracking, and performance monitoring dashboards with a scalable backend workflow.",
     tags: ["Full-Stack", "LMS", "Backend", "Database", "Education Tech"],
-    link: "https://github.com/AjayGitPersonal",
+    link: "https://github.com/AjayGitPersonal/DevOps-LMS.git",
     featured: false,
   },
 ];
@@ -94,16 +94,19 @@ export const certifications = [
     name: "Oracle Cloud Infrastructure Foundation Associate",
     year: "2025",
     issuer: "Oracle",
+    link: "https://drive.google.com/file/d/128NugiLws3exSkdCZHVkvODZClj9Xo4b/view?usp=sharing"
   },
   {
     name: "Oracle Cloud Infrastructure AI Foundation Associate",
     year: "2025",
     issuer: "Oracle",
+    link: "https://drive.google.com/file/d/1e7ktOCfSGlhZ2VAaT7t7MInNg5Gy2gWJ/view?usp=sharing"
   },
   {
     name: "Oracle Cloud Infrastructure DevOps Professional",
     year: "2025",
     issuer: "Oracle",
+    link: "https://drive.google.com/file/d/1QDkMCC5lqx-cYRheHRbsZ2v5aw6oeaKF/view?usp=drive_link"
   },
 ];
 
